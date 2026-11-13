@@ -1,0 +1,1473 @@
+ARTICLE 2
+The Nature and Meaning of Fundamental Constants
+Abstract
+The description of the most general and many specific regularities of the
+development of the surrounding world is seldom managed without the
+presence of the so-called world constants — universal values entering into
+the composition of the form-building means of such a description
+(mathematical
+formulas,
+mathematical
+dependences,
+mathematical
+expressions).
+A great multitude of printed works is devoted to these values, and, despite
+the abundance of investigations of their remarkable properties and
+characteristics, the circumstance is universally recognized that until now the
+true nature and the actual meaning of the fundamental world constants are
+unknown to anyone.
+The present work removes the veil of mystery from the very popular and
+extraordinary numbers π, e, and φ, to the solving of the secret of which
+numerous publications in various information sources are devoted.
+On the example of these three most ancient and omnipresent numbers, the
+article shows in what manner one should approach the establishment of the
+nature and the revelation of the meaning of constants of this kind.
+The work can be recommended to the attention of researchers as initial
+material for the study of the background and the elucidation of the meaning
+of the entire spectrum of existing fundamental constants, as well as as a
+source of alternative views on the nature and essence of the surrounding
+world.
+Introduction
+Many versions are known regarding the origin, purpose, and role of the
+fundamental world constants. We are speaking, first of all, of the most
+ancient constant "π" [2, 10, 11, 13, 17, 20, 22, 28, 34, 51, 52] — the
+designation and numerical value of the ratio of the length of the
+circumference to its diameter, as well as of the no less fundamental and
+popular (although not so ancient as the first) constant "e" [2, 8, 10, 11, 17,
+20, 26, 29, 31, 43, 51, 53] — the designation and numerical value of the
+base of natural logarithms. In this same connection we shall not fail to recall
+yet one more outstanding constant "φ" [1, 2, 3, 7, 14, 19, 23, 25, 35, 39,
+40, 47, 50, 51] — the designation and numerical value of the so-called
+golden ratio, or golden section, or golden proportion.
+
+To the extraordinary and mysterious (not to say — mystical) numbers π (pi),
+e, and φ (phi) a great multitude of printed works is devoted. Special
+attention is traditionally paid to the enumeration of the astonishing
+properties of these dimensionless constants. And at the same time, despite
+the abundance of investigations and descriptions of the remarkable
+characteristics of the indicated numbers, the circumstance is universally
+recognized that until now the nature and the actual meaning of these values
+are unknown to anyone.
+In contrast to the mission of replenishing the list of enthusiastic descriptions
+of the wonderful properties of the above-enumerated world constants, the
+modest task of the present article consists in showing the source of their
+extraordinary properties, in uncovering and laying bare the true nature and
+essence of these values.
+We shall solve the set task, relying on the concept of development described
+in the previous article of this same collection, as well as in the works [5, 21,
+54].
+In investigating the essence of the mentioned constants, we proceed from
+the fact that reality (the world surrounding us, nature) is always at least twosided (dual). Any object, process, phenomenon in the most general abstract
+form represents a relation of two sides-constituents-components:
+{content/form}. Then any concrete form (implying under itself the same
+object, process, phenomenon) is determined by the correlation of the
+indicated sides-constituents in each of their concrete relations. The
+development of the forms themselves represents the change of the
+correlations of the noted constituents within the framework of their relations.
+In such a connection it becomes obvious that the forms determined by the
+above-mentioned correlations can be both more and less contentful (by
+virtue of the presence of different shares of the contentful and formal
+components in their relations). The general tendency of the development and
+change of forms (as the experience of human observations throughout
+human history shows) is such that in the course of their (the forms')
+development there takes place a shift of the correlation of the components
+(in their relations) toward the "numerator," i.e., toward the contentful
+component (what is meant is the principled orientation toward the general
+movement-development of forms in the direction of the acquisition of the
+highest contentfulness) [5, 21]. Such an installation-orientation is called the
+principle of self-development, with the formulation of which the reader can
+acquaint himself there — in the previous article of the present collection and
+in the works [5, 21, 54]. This formulation means approximately the
+following: everything that exists and develops has as the direction of its
+development and existence the expression (coverage, absorption,
+assimilation, comprehension...) by itself, existing and developing, of itself,
+
+existing and developing. And such directionality or orientation of movementdevelopment is inherent in all developing forms without exception.
+In the text of the article the reader will not encounter a single formulaic
+expression for the determination (calculation) of the values investigated by
+us, just as he will not see "juggling" with their numerical values, which at
+present have the possibility of being reproduced with any preassigned
+accuracy. The demonstration of such effects does not add, unfortunately,
+clarity in the intention to find out the true nature and meaning of the
+constants under consideration: for no matter how many times one says the
+word "halva," it will not become sweeter in the mouth. For us in this case the
+most important thing is to uncover and manifest the deep philosophy of
+these phenomena, i.e., to reveal the essence, meaning, background, nature,
+and the urgent necessity of the use by man of these parameters (values) in
+his activity. The possibility of the solution of this task is determined by no
+means by the skills of mastery of the craft, but by the level of mastery of the
+art of "aerobatics," i.e., dialectics.
+Without being distracted by the description of the astonishing properties and
+characteristics of the dimensionless constants under consideration (these
+properties are enumerated and described in abundance in the literary sources
+by the references mentioned at the very beginning and in many, many
+others), let us stop on the main, in our opinion, question: in what, strictly
+speaking, consisted and consists for man the urgent need or necessity of the
+introduction of these numbers into everyday use, into practice, into
+circulation? In other words, we shall answer predominantly such a question:
+what main problem for himself did man attempt to resolve (let it be
+unconsciously, unthinkingly, intuitively) by way of the introduction of these
+numbers into practical circulation? At that, let us note that, answering these
+simple questions, we shall inevitably have to answer also the more general
+question: what fundamental regularity of development leads to the necessity
+of the seeking-out and use of such constants?
+In two words and still very simplistically, the answer to these questions will
+look approximately as follows.
+When man does not know something, does not understand or underunderstands it (i.e., encounters something unexplored, both in the small and
+in the large), he strives with all his might to express this unknown through
+the known and cognized, — let it be not so smoothly and thoroughly, not
+completely, but with some "appendage" of the not quite ordinary (say,
+through some atypical or unknown — until the time — combinations of
+known forms), but still mainly through the habitual and already familiar. And
+this means that in such cases man is moved by the striving — to clothe the
+new developing content (new knowledge) in a more or less known form, to
+impart to this new content (new knowledge) a more or less already
+meaningful and habitual appearance. Therefore, however strange this may
+look, not only at the first steps, but always in such cases human thinking
+
+solves the main philosophical problem for itself of the seeking-out and
+clothing of the renewing and accumulating content of developing reality in a
+form more or less (and in the limiting expression — in the most and
+maximally) answering to this content and simultaneously "digestible" for
+comprehension. In the same cross-section, the initial internal contentful
+human activity or aspiration seeks embodiment or expression through the
+external formal pragmatic execution; at that, the contentful side in this
+tandem (relation of the contentful and formal components) always proves to
+be the leading and moving side. Probably, for the majority of us this
+assertion abides in a still insufficiently manifested and not fully realized form,
+but the matter stands precisely so!
+Now let us pass over to the detailed examination of what has just been said
+with respect to the numerical constants of interest to us.
+§ 1. Let us begin with the number "π" (pi)
+As is known still from the school bench, the number "π" represents the ratio
+of the length of the circumference to its diameter. This is the most distinctly
+manifested relation of two sides-constituents of reality, for which are
+characteristic in this case such basic relations of its properties as
+{curvature/rectilinearity},
+{continuity/discreteness},
+{boundlessness/limitedness}, etc. In each of the noted relations there are
+present and mutually linked two sides-constituents of reality. However,
+notwithstanding the closest interconnection, neither the one nor the other
+side is identical to the other and represents components not replaceable by
+each other; at that, to such a degree not replaceable that between these
+sides-components there always lies a naturally conditioned boundary of
+division. Human thinking comparatively easily copes with the realization of
+the formal side of such relations, i.e., of the "denominator," and matters
+stand much worse with the perception of the contentful side — the
+"numerator."
+Proceeding from this, from the most ancient times everything still not
+understood and incomprehensible man trivially strives to express through the
+already understood and comprehensible. The relations adduced above in this
+sense are no exception. In his attempts to express, to comprehend the
+incomprehensible continuity and boundlessness of the curvature of the
+circumference through the comprehensible limitedness and discreteness of its
+rectilinear diameter, man inevitably comes to the sought relation, expressed
+and designated by a certain from time to time approximately repeating
+numerical value (subsequently named the constant "π"): in a rather obvious
+and unpretentious way he manages to express the incomprehensible
+irrational through the well-known and sufficiently studied rational.
+Thereby, in the image of the number "π" we find the first productive attempt
+of man to cope with quite serious difficulties, which are conditioned by the
+objective presence of two objectively opposing and non-interchangeable
+
+sides of reality [5, p. 55]. This is an undoubted achievement and victory of
+man, but not without subsequent disappointments.
+Perhaps the simplest algorithm (way) of finding (computing) the constant "π"
+reduces to the seeking of the limit of the ratio of the perimeters of the
+regular polygons inscribed in the circumference and circumscribed (around it)
+(with the unlimited increase of the number of sides of these polygons) to the
+diameter of this circumference. In this way is realized the striving toward the
+expression of the most contentful correlation between the contentful and
+formal components in their relation {length of circumference/diameter
+of circumference}, indirectly determining, in essence, also the correlation
+between
+such
+fundamental
+sides-components
+of
+reality
+as
+{curvature/rectilinearity},
+{continuity/discreteness},
+{boundlessness/limitedness}, etc.
+The straight line and the circumference — these are the two most popular
+lines on the plane of the times of the absolute leadership of geometry among
+all the sciences then being born. Between the two remarkable lines — the
+circumference and its diameter — is enclosed a whole family of broken lines
+(polygons) inscribed in the circumference (and circumscribed around it) with
+perimeters easily computable and arbitrarily closely approaching the length
+of the circumference. An excursion into history shows in what unpretentious,
+but quite laborious way rational man approached the comprehension of the
+irrational: Archimedes, as is known, in his computations went as far as the
+calculation of the perimeters of the 96-gons inscribed in the circumference
+and circumscribed around it [42, p. 43; 52]. And, despite such laborious and
+painstaking work, to express the length of the circumference wholly and
+without remainder through its diameter still did not succeed [18, p. 291; 24,
+p. 131; 51, pp. 33–34]. All subsequent attempts of new times only confirmed
+the unsolvability of this task in an exhaustively exact expression. Today the
+constant of interest to us has already been computed with an accuracy of up
+to billions of significant digits after the decimal point [20], but in the final
+form the task has still not been solved. What does this speak of? Only of the
+fact that in the course of investigations of this kind man has come up closely
+against the inexpressibility of the real (really existing) irrationality by a
+simple rational way, even in the case of a deliberately limited, so-called flat
+geometric space.
+Alongside the testimony of the achieved victory, corresponding to some
+smallish possibility of representing one through the other, the number "π" —
+this is at the same time also an indicator of the futility of the attempts to
+achieve the final and complete expressedness of the objective
+boundlessness, continuity, curvature through the no less objective
+limitedness, discreteness, rectilinearity.
+The inexhaustibility and progressive productiveness of such attempts, but at
+the same time also the principled unattainability of the expression of the
+entire fullness of content in a final kind and form are interpreted and
+substantiated by the above-mentioned formulation of the principle of self-
+
+development, which proves to be the background of that very (sought)
+regularity of development leading to the necessity of the seeking-out and use
+of this constant.
+In the indicated connection, the meaning of the constant "π" is seen in the
+fact that it fixes a certain transitional ("borderline") numerical correlation
+between the contentful and formal constituents in the relation {"curvilinear"
+circumference/"rectilinear" diameter}. In this case human thinking contrived
+to express in a quite definite manner — by a more or less concrete number
+— the correlation between curvature, boundlessness, and continuity (the
+personification of which is the curved line of the circumference), on the one
+hand, and rectilinearity, limitedness, and discreteness (personified by the
+rectilinear diameter of the circumference), on the other hand. And in this
+same case we state by no means a final and exhaustive, but still a productive
+attempt of thinking to throw a bridge from the rational reality (from the
+standpoint of traditional human thinking) to a reality to some extent
+irrational (the term "irrational" is used here in the meaning of something
+not fully cognized, insufficiently investigated, and comparatively more
+contentful, not yielding to realization in full measure, and not in the sense of
+something mystical and otherworldly). In the striving to express the
+irrational through the rational (i.e., to throw a "little bridge" from one to the
+other) and appear the remarkable relations, similar to the number "π". By
+reason of the objective unattainability of the full and exhaustive expression
+of the irrational through the rational (the infinite through the finite, the
+continuous through the discrete, the indefinite through the definite, the
+abstract through the concrete, etc.), such relations are expressed and
+displayed by irrational numbers (i.e., infinite non-periodic fractions). The
+very irrationality of such numbers-relations (inherent in the dimensionless
+world constants under consideration) always presupposes, as it were, a long
+(infinite) "run-up" before the "jump" from the formal side-constituent of the
+relation to its more contentful side-constituent (for example, from the
+straight line or plane to the circumference or sphere in the case of the
+determination of the number "π").
+Just as any natural formation, man and his thinking are at least two-sided
+(dual), and therefore contradictory. By virtue of the indicated peculiarities,
+even such a powerful instrument as abstract human thinking with its
+characteristic enormous intensity of the realization of content-form
+transformations proves unable to solve such tasks, moving exclusively in
+measured-gradual steps; only by a leap in thinking (i.e., at the level of the
+forms-concepts and representations mediated by human thinking about the
+contradictory components of reality in their actual relations of
+interconnection and mutual transitions) is the barrier or boundary of division
+between the opposing sides-components of reality overcome.
+Whether we want it or not, dialectics is present here and further, as
+they say, at full height.
+
+From the set of information about all sorts of investigations of the number
+"π" it is known that there exists a multitude of curves of different orders,
+somehow correlating with the segments of straight lines connecting the ends
+of these curves on the plane, but only the ratio of the length of the
+circumference to its diameter is the most large-scale and "full-blooded" in
+magnitude (i.e., the most contentful) of all such relations. The highest
+contentfulness of the relation-form expressed and designated by the number
+"π" (as the ratio of the length of the circumference to the length of its
+diameter) is conditioned, first of all, by the remarkable property of the
+"numerator" of the relation, i.e., of the circumference; as mathematics
+asserts, of all closed curves of given length on the plane the circumference
+bounds the region of maximal area [2]. From the outstanding contentful
+fullness of the circumference and proceeds the intuitively-practical interest of
+man in the calculation of the length of the circumference by means of its
+diameter — in the striving and hope of the finding of a simple device for the
+exhaustive expression of the irrational curvature through the rational
+rectilinearity. Let us keep in memory this remark about the highest
+contentfulness of this wonderful correlation of the two components under
+consideration in their relation.
+Thus, of all the correlations between the components of reality in the general
+relation-form {curvature/rectilinearity}, the number "π" represents such a
+special correlation of the components in their particular (and most kindred to
+the
+general)
+relation-form
+{length
+of
+circumference/diameter
+of
+circumference} which answers to the maximally possible contentful filling (or
+the highest contentfulness) of this form-relation.
+At that, the irrationality of the number "π" testifies to the principled
+impossibility of the establishment in exhaustive form of the final numerical
+correlation between the components of the relation-form {length of
+circumference/diameter of circumference}, corresponding to its maximally
+contentful filling, and thereby to the impossibility of the acquisition of the
+highest contentfulness by this form-relation.
+The impossibility of the exhaustive expression of the highest contentfulness
+by the indicated form-relation is ascertained in the course of the modeling of
+the process of the acquisition (achievement) of this highest contentfulness by
+the procedure of the computation of the correlations between the perimeters
+of the polygons inscribed in the circumference (or circumscribed around it)
+and the diameter of this circumference with the unlimited growth of the
+quantity of the sides of the polygons.
+The productively realized attempt to link two independent and noninterchangeable sides of reality proves subsequently to be in demand in the
+plan of the use of the found compromise number "π" in all other cases which
+one way or another require the replication of similar "borderline" values for
+the adequate description of more complex real situations. Thereby the
+number "π" belongs to the series of remarkable and extraordinary numerical
+
+correlations thanks also to the need for it for the subsequent application in
+the composition of formal (formulaic) expressions and dependences
+describing the development of diverse (including compromise) real complex
+forms and processes. The presence of the constant "π" in such descriptions
+indicates the belonging of the forms and processes described with its help to
+the number of optimal (i.e., endowed with heightened contentfulness).
+Examples of diverse tasks in the solution of which the number "π"
+participates as a constant for the description of various kinds of optimal
+forms and processes can be found, say, in such printed works [6, 10, 11, 16,
+24, 27, 30, 32, 33, 38, 46, 48, 49].
+§ 2. Let us pass over now to the investigation of the constant "φ"
+(phi), responsible for the so-called golden ratio, or golden section, or
+golden proportion
+The main peculiarity and rule of the construction of the golden proportion are
+more or less precisely, in our opinion, conveyed by the words of I. Kepler,
+who called this proportion itself continuing itself: "It is arranged so that the
+two junior members of this endless proportion in sum give the third member,
+and any two last members, if one adds them, give the following member,
+with the same proportion being preserved to infinity" [15]. This quotation
+describes a special algorithm of the composition of the whole from the
+aggregate of parts.
+Continuing to answer the question posed at the beginning of the article —
+what fundamental regularity of development leads to the necessity of the
+seeking-out and use of such a constant and of the golden ratio displayed by
+it, — we state that this regularity too is conditioned by the above-mentioned
+principle of self-development.
+In the course of the realization of this principle, the universal internal
+mechanism (algorithm) creates ever more "living" (i.e., ever more
+contentful) unique natural forms-formations. Submitting to the single
+principle of the exhaustive expression of the whole integrity of the developing
+content, nature by successive approximations solves the task of the
+coverage, representation, and comprehension of this contentful integrity by a
+totality of ever newer and newer forms. In this concrete case investigated by
+us, the role of the contentful and formal constituent sides in the generalized
+abstract relation {content/form} is played by the components
+{whole/part}.
+Nature, as a definite-level external formalization of the developing reality,
+constantly gropes for the most optimal way of solving the indicated task. By
+the empirical path (by way of the realization of numerous approximations)
+there are produced forms which most correspond to the requirements of the
+exhaustive in the final analysis solution of the mentioned task, i.e., the most
+contentful forms. Forms-relations reproduced on the basis of the golden
+correlation between the components of these relations stand in the row of
+
+such most contentful forms for their levels. The developing reality is capable,
+through human thinking as yet another link-form in the chain of forms of
+its contentful development, of fixing and evaluating the degree of
+contentfulness of its own (both already existing and newly arising) linksforms in the striving of the latter toward the possession of the highest
+contentfulness on their levels.
+What is characteristic of the heightened (and in the limiting case — the
+highest) contentfulness, and in what does it express itself with respect to the
+forms-relations endowed with it? At the level of human consciousness the
+mentioned contentfulness of the correlation displayed by the number "φ" and
+the effectiveness of the chosen path are evaluated and confirmed by the
+maximal density of the "mastering" (i.e., the "best mastering") of free space
+by separate forms [2, 15], as well as, by virtue of this circumstance, by the
+establishment of the presence of the indicated correlation in a whole series of
+natural formations-forms-relations [1, 3, 14, 19, 23, 25, 40, 50, 51].
+As in the case with the remark (see earlier) kept in memory about the
+highest contentfulness of the correlation designated by the number "π", with
+respect to the number "φ" the speech likewise goes about forms with
+correlations (between the components {whole/part} in their relation)
+answering to the expression of heightened contentfulness. The golden
+relation-form differs from other relations-forms by such a correlation of the
+contentful and formal components which ensures the maximal filling with
+content of this form-relation at the given (this or that) stage-level of its
+development.
+A similar remarkable correlation is fixed by a certain number "φ" in the row
+of all other numerical values corresponding to all other correlations within the
+framework of the relation under consideration. And the matter, perhaps, is
+not even in some concrete numerical value of this correlation, but in the fact
+that such a remarkable correlation exists in principle among the multitude of
+correlations and of the numerical values corresponding to them.
+The special correlation of the contentful and formal components, ensuring the
+maximal contentfulness of the golden forms-relations, endows these forms
+with heightened stability and viability. For the expression of the remaining
+advantages of such outstanding forms-relations, and in fact for the
+evaluation of the degree or measure of their internal contentfulness, man has
+invented and uses in everyday life a great multitude of all sorts of epithets
+and definitions (directly linked, among other things, with the aesthetic
+principle manifesting itself at the level of external human emotions), such as,
+for example: divine beauty, perfection of form, ideality, exceptionality,
+uniqueness, harmony, optimality, special property, high quality, "pleases the
+eye," and many, many others. The heightened (maximally attainable or
+highest for its level and stage of development) internal contentfulness of
+such forms-relations, expressing itself in a set of their remarkable external
+characteristics and properties, is connected with the presence, as already
+noted, of the above-mentioned concrete numerical correlation in a whole
+series of nonliving and living forms known to man. Confirmation of this can
+
+be found in numerous literary sources (see the references above and below)
+devoting excessive attention to the description of the wonderful properties of
+the golden section. Coming to such a kind of optimal correlations in a series
+of certain forms, nature from year to year continues by spiral-cyclical
+movements to "polish" its creations, achieving results still more astonishing
+and still more approximated to the expression of the highest contentfulness.
+In such a way the developing reality itself, through the host of its changing
+and newly arising forms in the channel of the algorithm (formulation) of the
+principle of self-development, by periodic reciprocating movements
+"refines" the value of this correlation in the relation {whole/part}.
+Meanwhile, human admiration, deification, and exaltation of the known
+properties represent a reaction of man only to the external signs of the
+manifestation of the internal contentful fullness of such special forms and
+leave without due attention this very internal contentfulness. Not being
+sophisticated in such questions, man is inclined to absolutize and mystify
+everything that is above his understanding, taking the superficial
+phenomenon for the innermost essence. And the golden section as an
+external manifestation of the heightened internal contentfulness of definite
+forms is not an exception in this case.
+So, in what, in fact, does the divinity of the forms-relations reproduced by
+the algorithm of the golden proportion consist? Only in the fact that precisely
+such a correlation, such a proportion of the part and the whole ensures the
+maximally possible contentful filling of this or that form at a definite stage of
+its development, i.e., at this definite segment of its path the given form is
+most contentful (stands out from the other forms by its heightened
+contentfulness). The loss or forfeiture by a form of a part of its heightened
+internal contentfulness at another segment (stage) of its path inevitably
+leads also to the change (or disappearance) of the corresponding external
+signs of this form.
+As in the case with the number "π", the establishment of yet another
+remarkable correlation "φ" between the contentful and formal components in
+their relation is, undoubtedly, yet another victory of rational man. About the
+special relations of the whole and the part man has reflected from time
+immemorial. The ancient Greek philosophers (beginning with Plato) supposed
+that the whole does not reduce to the simple sum of its parts. But all the
+most important suppositions and conjectures in this connection to this very
+day abide in the category of the theoretical (not to say scholastic) and have
+neither the status of recognized knowledge nor practical application. The
+official encyclopedic editions likewise limit themselves to very meager and
+vague utterances on this score [45, p. 768; 37, p. 1500].
+The whole — this is not a simple sum (or totality) of its parts, but plus yet
+something else, obtained as a result of the interaction of the parts among
+themselves and of the parts with the whole. When the whole grows by
+parts in such a correlation with the whole as is prescribed by the
+
+algorithm of the golden division, then the forming whole (under which
+are implied both the newly arising and the changing forms-relations)
+acquires the maximal contentful filling. Thus, the number "φ" is a
+quite concrete quantitative correlation between the whole and the
+part in certain relations-forms, answering to the maximally possible
+contentful filling of these forms-relations in the course of their
+growth by parts in the mentioned quantitative correlations with the
+whole at certain definite stages-levels of the development of these
+forms-relations. Precisely this correlation (this proportion) of the whole and
+the part answers to the highest contentfulness of the whole growing by a
+part in the indicated correlation.
+The regularity of the construction of the golden proportion described by
+Kepler in an astonishing way resembles the sequence of Fibonacci numbers.
+Astonishing, however, only at first glance. The abstract and, it would seem,
+unconnected with practical application numerical sequence of Fibonacci is
+nothing other than a model of the optimal, most contentful growth of the
+whole by parts, i.e., a model of the modification of existing and the formation
+of new forms of heightened (in the striving toward the highest)
+contentfulness.
+[A passing remark. Mathematics is excessively full of surprises, sometimes
+considered products of the fruitless play of a brilliant mind, but having,
+however, a direct relation to the objective reality, although not always an
+obvious one. The whole matter is in the excess, speaking simplistically, of the
+intensity of the content-form transformations at the level of human thinking
+over the analogous intensity at the level of the subject-practical activity of
+man, in consequence of which many contentful developments of the "pure"
+reason gather dust on the shelves, humbly awaiting their "binding" and
+demand at the level of formal practical embodiment.]
+It should be especially noted that under the term "golden section" and its
+numerical value there hides a boundary correlation between the components
+of the whole and the part with its (the correlation's) limit, guessed in the
+perspective of the infinite growth of the totality of the constituent parts in the
+whole, modeled (the speech is about the growth) by the ascending sequence
+of Fibonacci numbers.
+The analysis of the tendency of the change of the values of the relations of
+the neighboring members of the Fibonacci sequence, lying in the basis of the
+search for the most contentful correlation between the whole and the totality
+of its constituent parts in concrete forms-relations built after the type of the
+golden section, testifies to the fact that the increase of the number of parts
+included in the whole leads to the refinement of such a correlation and to its
+ever greater optimization, but the obtaining of an exhaustively exact
+numerical value answering to the most optimal correlation, even with an
+arbitrarily great (unlimited) growth of the quantity of parts in the
+composition of the whole (as also with the proportional increase of the
+
+geometric dimensions of the whole and the parts), is impossible neither
+practically nor theoretically. In other words, the contentfully fulfilled whole is
+uncountable (does not yield to counting) and inexpressible wholly and
+without remainder by any number of limited parts and their totality; with the
+unbounded increase of the number of parts entering into the whole, modeled
+by the ascending Fibonacci sequence, the relation of the neighboring
+members of the sequence arbitrarily closely approaches a certain limit, but
+never attains it. Only in such an unfinished way and in an approximate
+manner is expressed (and can be expressed) the contentful fullness of the
+uncountable whole through the infinite succession of countable totalities of its
+parts.
+Thereby the analysis in the indicated connection of the unending sequence of
+Fibonacci numbers allows coming to an important conclusion about the
+principled unattainability of the exhaustive expression of the content of the
+whole by any formal totality of its parts, even with the unlimited increase of
+the quantity of parts in the totality.
+Continuing the investigation of this model (i.e., analyzing the variability of
+the values of the relations of the neighboring numbers of the Fibonacci
+sequence), one can discern also the presence here of a certain likeness of
+forms developing at different levels with different volumes of contentfulness
+(with the variation of the number of parts or of their sizes in the composition
+of these different-level forms), but the repetition (i.e., the equality or
+identity) of forms belonging to different levels with different volumes of
+contentfulness is unrealizable and impossible in principle! About this again
+testifies the infinite incompleteness and unattainability (in computation) of
+the exhaustively exact correlation designated by the irrational number "φ",
+observed (the speech is about the incompleteness and unattainability) in the
+investigation of the character of the change of the values of the relations of
+the neighboring members of the increasing Fibonacci sequence.
+The golden proportion, or the special correlation of the whole and the part
+designated by the number "φ", is an indicator of the heightened
+contentfulness of forms-relations of a definite type, manifesting itself through
+the optimality of properties-characteristics and through the aesthetic
+perfection of these forms. The irrationality of this number testifies both to the
+unattainability of the exhaustive expression of the highest contentfulness by
+the forms of such proportions, and to the possibility of the unlimited
+approximation to its exhaustive expression. The coming of the event of the
+exhaustive expressedness of the highest contentfulness by the form of the
+golden relation would mean that, beginning with some step of the realization
+of the algorithm of the computation of the constant "φ", the correlation of
+the whole and the part (of the golden proportion) would remain unchanged,
+i.e., limited by some quantity of signs (by any their quantity, but necessarily
+limited), and therefore unchanged. However, the infinity and non-periodicity
+of the fractional part (i.e., the irrationality) of the number displaying this
+correlation (as in the case with the number "π") speaks of the opposite.
+
+As in the case with the number "π", the infinity and non-periodicity of the
+fractional part (the irrationality) of the number "φ" means that very barrier
+which separates two sides-constituents of one and the same relation
+{content/form} that are incompatible in exactness and non-interchangeable.
+As in the case with the same "π", again we note the infinite "run-up" or the
+unending transition from one component of reality to the other (from one
+region of reality — into the other) in their relation. If the case with the
+number "π" speaks of the impossibility of the whole expression of the
+boundless continuity and curvature by the limited discreteness and
+rectilinearity, then the case with the number "φ" testifies to the principled
+inexpressibility in an exhaustive manner of the contentful whole (again
+uncountable and continuous) by means of the totality of formally limited
+parts (i.e., by means of the countable and discrete). Despite the
+inseparability and interconnectedness of the contentful and formal sidesconstituents in the known relations "π" and "φ", the barrier between the
+contentful and formal components (in both relations) is essential to such a
+degree that it cannot be overcome by any successive or gradually-measured
+steps-approximations, however long these steps-approximations might be
+carried out. Even human thinking with its enormous potential is not capable
+of overcoming this barrier by measured gradualness; it is overcome
+exclusively by a leap. However, the latter always conceals in itself something
+not fully understood and not fully said. Partly for this very reason the nature
+and meaning of the fundamental world constants up to now nobody can
+properly explain.
+Thus, the number "φ" is such a special quantitative correlation between the
+components in the relation-form {whole/part} which answers to the
+maximally possible contentful filling (or the highest contentfulness) of this
+form-relation.
+At that, the irrationality of the number "φ" testifies to the principled
+impossibility of the establishment in exhaustive form of the final numerical
+correlation between the components of the relation-form {whole/part},
+corresponding to its maximally contentful filling, and thereby to the
+impossibility of the acquisition of the highest contentfulness by this formrelation.
+The impossibility of the exhaustive expression of the highest contentfulness
+by the indicated form-relation is ascertained in the course of the modeling of
+the process of the acquisition (achievement) of this highest contentfulness by
+the procedure of the computation of the correlations of the neighboring
+members of the infinitely-increasing Fibonacci sequence.
+Undoubtedly, the number "φ", fixing a definite correlation of the components
+(sides-constituents) in certain concrete forms-relations, is connected with a
+certain optimality of these concrete forms-relations, conditioned by such a
+remarkable-kind correlation of components realized in them. At that, one
+
+cannot but see that the internal contentful fullness of these forms is primary,
+while the optimality and the remaining external qualities-characteristics of
+such forms are derivative and secondary; in practice, however, everything is
+just the opposite — the formal side is taken for the initial one, and only then
+through it do they attempt to express the rationality and irrationality of all
+internal connections and relations.
+The heightened internal contentfulness of forms-relations, marked by the
+golden correlation of their components, sets the most optimal intensity of the
+development of such forms, ensuring their prolonged and productive
+contentful existence at certain stages. However, a similar scenario can be
+true and realizable only at definite segments of the development of these or
+those forms; with the change of conditions and circumstances (i.e., in the
+course of the inevitable further universal development) these or those
+bearers of golden proportions may lose their miraculous potential. For this
+reason it is very imprudent to be carried away by the excessive
+absolutization of the special correlations of components and of the formsrelations corresponding to them, predicting for such forms the main roles for
+all times. Real forms are different and all sorts, and therefore the entire
+spectrum of developing forms-relations is by no means exhausted by one
+(this or that) concrete correlation of their components. At the given stage of
+development precisely such a correlation of the constituent sides within
+certain forms-relations is and looks most optimal, stable, and expedient; at
+another stage under other conditions and circumstances this correlation may
+be forcedly transformed (just as over the centuries change the sympathies
+toward the proportions and beauty, say, of the female figure). Therefore to
+attempt to reduce all forms-relations to the golden relation, i.e., to
+absolutize, fetishize, mystify this relation and to spread the known myth
+(about the through presence of this correlation) wholesale over the entire
+host of unique developing forms — is absurd. Moreover, in the indicated
+connection the main task of man and of his thinking is to learn to foresee and
+anticipate the appearance of new correlations (including optimal ones, i.e.,
+distinguished by heightened contentfulness) of the contentful and formal
+sides-constituents in their relations-forms at new stages of development,
+which, in fact, will determine the further progress of mankind.
+In general, all manner of assertions about the "final" discovery of the most
+final and perfect of forms (be it the golden section, or some "universal"
+mathematical formula, or some "super" technologies) contradict the very
+spirit of development, which, despite any "absolutes," breaks open and
+overcomes by its contentful side any form attempting once and for all to fix
+in itself and by itself any contentful movement-development; from
+definiteness => through indefiniteness => to new definiteness, — such is the
+most general form of the chain of the accomplished development. At that,
+the elements of indefiniteness and unpredictability of the course of
+development were, are, and will always be — in accordance with the
+formulation of the principle of self-development (the return to oneself, but
+every time to oneself changed, enriched, and developed). This context
+
+presupposes as natural the representation of the fact that the moment of
+indefiniteness is also an objective and inalienable element of every
+development.
+Examples of the description of the optimal kind of all sorts of forms and
+processes, the construction, formation, or development of which submits to
+the regularities of the golden proportion, can be found in such printed works:
+[2, 14, 15, 19, 25, 40, 50].
+§ 3. With the examination of the essence of the number "e" the
+matter stands still more complicated
+In the scientific and educational literature the constant e is identified as the
+base of natural logarithms, which by no means introduces any additional
+clarity in our case. The constant e is not connected in an obvious way with
+simple geometric relations like the constants π (pi) and φ (phi) examined
+above. If the number π serves for the most part for the description of quite
+static forms-relations, the number φ — for the description of transitional
+forms ready for dynamic development, then the number e is present in the
+description of the most dynamic, in the fullest sense of the word, developing
+forms-relations-processes-systems, the components of which prove to be,
+first of all, such sides-constituents of reality as: {motion/rest},
+{time/space},
+{energy/mass},
+{kinetic
+energy/potential
+energy},
+{temperature/pressure}, etc.
+As the authors of modern publications consider: "If π is responsible for
+space, then e — for time and likewise manifests itself almost everywhere"
+[20]. In other words, e is responsible not for statics, but for dynamics, for
+the process, for changing and progressing forms (and not for forms for the
+most part object-like and static).
+Proceeding from this, one should expect that the interconnection and
+correlation of the components in their relation, designated by the number e,
+are more complicated and more contentful than in the relations of π and φ,
+since with respect to the constant e the speech goes about components of
+another "floor" of reality, of another level of contentfulness, than those levels
+which are occupied by the components of the relations of π and φ.
+Correspondingly to this, the numerical value of e fixes another, than π and
+φ, "boundary" and transitional correlation between the mentioned
+components in their relations.
+Besides, from the position of our representations about the development of
+reality (i.e., from the position of the concept of development) the aboveenumerated set of relations ({motion/rest}, {time/space}, {energy/mass},
+{kinetic energy/potential energy}) enters into the "clip" or "sphere of
+influence" of such a generalized relation as {change/basis}. On this
+foundation, further investigations of the essence of the constant e we shall
+
+conduct in the context of precisely this, most informative for us, initial
+relation.
+The relation {change/basis} — this is a completely different "class," a
+different level of forms-relations, than the relations {curvature/rectilinearity}
+and {whole/part} examined by us earlier (in the consideration of the
+constants π and φ). The form-relation {change/basis} differs from the two
+latter forms-relations by a more expressed dynamism, mobility, liveliness,
+changeability.
+But all this, as before, clarifies little; for a magic carpet by description may
+be both square and Persian, and take part in air parades, but the main thing
+(in the channel of our mood for the revelation of the inconspicuous essence)
+would still be the elucidation of that — what makes it a carpet-plane.
+Therefore, again, as in the cases with the numbers π and φ, let us turn to
+the most capacious definitions and interpretations of the constant e, as well
+as to the history of its appearance and origin.
+The initial and most effective, in our opinion, push or key to the
+comprehension of the sense of the number e is provided by its classical
+definition [8, p. 231; 26, p. 354]. Scrupulously examining this definition of
+the number e from the position of the concept of development mentioned
+already more than once, one can discover that under the very definition of
+the given number there hides a peculiar algorithm of the realization of the
+most effective way of the accumulation and assimilation of the accreting
+content by some form developing in the direction of the acquisition of the
+highest (maximally attainable) contentfulness! And again the speech goes
+about a certain contentfulness, which likewise served for us as a key moment
+in the course of the revelation of the essence of the constants π and φ. The
+form realizing itself by such an algorithm represents an optimal formation
+thanks to the way, following from the given definition, of the appropriation of
+the maximally possible volume of content accreting on the basis of a very
+limited initial contentful volume of the form itself and over a quite definite
+finite interval of time.
+On what is this assertion based? On the comparison of the textbook definition
+of the constant e with the way of the calculation of the compound bank
+interest accrued on a certain sum of the initial money deposit in the course of
+a definite time interval [31]. Strictly speaking, the history of the origin of the
+number e, as is noted in many literary sources, is connected precisely with
+the seeking-out of the maximal limit of the growth of the money deposit
+accreting with respect to its initial sum under the conditions of infinitely
+shortening intervals of time between the moments of the accrual of interest
+on the successively accreting at those same moments sum of this deposit.
+Only, in contrast to the history with the origin of the number e, in the case of
+the investigation of the definition of this number from the position of the
+mentioned concept of development under the sum of the deposit and the
+
+bank interest there are implied a certain form of the initial content (basis)
+and a certain abstract content "winding" onto the basis (change), accreting
+to the basis by the algorithm corresponding to the above-mentioned way of
+the accrual of the bank interest.
+According to the algorithm used for the calculation of e, providing for ever
+more frequent (accelerating) interest accruals on the correspondingly
+accreting sum of the deposit, with such an increasing frequency accretes also
+the very sum of the deposit; a similar algorithm is realized, as we have
+already established, also in the computation of the ever more exact value of
+the constant φ by means of the infinite sequence of Fibonacci numbers. Only
+in contrast to the forms, the static proportions of which are determined by
+the measures of the number φ, the forms formed after the patterns of the
+number e are built by the dynamic path, with the participation of the stepby-step changing component of time, by virtue of which also in this latter
+case the accumulating content does not succeed in being expressed by a
+form wholly, — the state of contentful "saturation" is not attained (does not
+set in) in principle, since there is always, there is always present a "beyondform" leakage of content, despite the process of the successive growth,
+perfection, and raising of the degree of the "all-embracingness" of the form
+of the representation of this content. Hence, even in the regime of the
+rapidly developing dynamic layering of content (change), predetermined (the
+speech is about the regime) by the indicated algorithm of the computation of
+the number e, and even with the limited content of the isolated initial form
+(basis), it is impossible in the limit (fully and without remainder) to cover,
+absorb, and appropriate exhaustively all the accreting content by any final
+form whatsoever! Here we again (as in the case with the number φ)
+encounter the principally unattainable limit of the accumulation and
+expression by any perfect form whatsoever of exhaustively all the
+unswervingly accreting (in the course of the development of this form)
+content.
+It must be said that mathematicians, describing e as a remarkable limit of a
+certain functional relation, do not connect the algorithm or procedure of the
+computation of the value of this relation with any of the physical processes
+[2]; in other words, for the mathematical cast of mind the examination and
+solution of the task in the most general abstract formulation is a natural and
+habitual matter.
+In the case examined by us of the use of the algorithm of the computation of
+the number e for the calculation of contentful accumulations (changes)
+proceeding from the initial limited contentful volume (basis), the
+"denominator" (i.e., the basis) of the relation {change/basis} adduced
+earlier, like the "numerator" (change), directly participates in the contentful
+accretions and accumulations: changes do not occur on an empty place, but
+always "cling" to the basis (to the initial deposit, to some starting capital or
+contribution), and this concerns not only the development of specific forms-
+
+relations in the domain of economics and finance, but also the development
+of any forms whatsoever and in any spheres whatsoever.
+A similar point of view on the correlation (interconnection) of the indicated
+components in the mentioned relation is considered self-evident (can one
+really separate the change itself in its "pure" form from that which
+changes?), — see, for example, about the connection of change and the
+stability of the properties, structure, and laws of the existence of bodies [44,
+p. 161]. Since the numerator of the relation ("change") is not essential by
+itself (outside the "basis"), then under the "change" of the numerator one
+should understand the "contentfully changing basis" (or the "basis accreting
+with content"). Under the "basis" of the denominator there is understood the
+"basis of the initial content." So, the analysis of the given algorithm shows
+that the maximal sum of the increment of the content of the changing basis,
+i.e., of the "numerator" of the relation, in comparison with the content of the
+initial basis, i.e., with the "denominator" of the relation, under the conditions
+of the realization of such a special algorithm (specific way of the increment of
+content) cannot go out beyond the limits of the excess of the contentful
+primary basis in e (as a certain definite number) times.
+Let us now examine, in what the specific algorithm of the calculation of the
+compound bank interest (i.e., of contentful accretions and accumulations in
+the context of our concept of development), coinciding in form with the
+algorithm of the computation of the constant e, differs from the other
+algorithms of bank accruals.
+According to the mechanism of the realization of the given algorithm, the
+maximal increment by content of a certain form of limited initial
+contentful volume in the course of a finite interval of time is attained
+under the condition that every infinitely small part of the contentful
+volume of the given form ensures an increment, externally accreting
+to this part of the contentful volume, proportional to the sum of the
+initial contentful volume of this part and of the contentful volume
+accreting to it in the course of periodically repeated contentful
+additions throughout the mentioned interval of time. By this somewhat
+ornate phrase here there is merely verbally transmitted the essence of the
+well-known mathematical expression for the computation of the constant e
+[8, p. 231; 26, p. 354], — and nothing more! In other words, thanks to such
+a way of accumulation (contentful enrichment), every particle, every smallest
+(infinitely small) element (at first of the initial, and then of the "layer-bylayer" accreting form) participates in full measure in the general single
+process of the accumulation and assimilation (assimilation) of the externally
+arriving content. And even under such a condition, the total volume of the
+content of the initial form (i.e., of the basis) and of the content externally
+arriving or accreting to the content of the initial form (i.e., of the change) is
+not capable of exceeding the contentful volume of the initial form (basis)
+more than in e times.
+
+Thus, the number e is located on the boundary of the demarcation of the two
+components in the relation {change/basis} and binds them together by a
+definite dependence, conditioning the change (accumulation) of the content
+accreting to the basis (i.e., "sticking" or "winding" onto the initial,
+deliberately limited volume of the basis) in the total calculation, not
+exceeding the volume of the primary basis more than in e times.
+As it can now be seen, the algorithm of the calculation of e resembles the
+formulation of the principle of self-development. And in the one, and in the
+other cases there is present the dynamics of the development of the form in
+time and space. The difference consists only in the fact that the first variant
+describes the particular case of the development of a form of initially limited
+contentful volume (initial capital, a definite sum of a money deposit in a
+bank, some process in an isolated spatial volume, etc.) throughout a
+concrete finite time interval; the second, generalized variant is applicable to
+the description of the development of any forms (including open developing
+systems, as well as the totalities of systems as a whole) without any spacetime limitations.
+The conditions of the realization of such a special algorithm (answering to the
+above-noted particular case) presuppose the presence of explicit limitations
+both of the contentful and of the formal plan; there is evident the limitedness
+both in time of the accrual of the interest, and in the volume of the initial
+deposit (i.e., limitations of the space-time character). But along with this, all
+the advantages of such an isolated process are likewise demonstrated in full
+force.
+Being a particular case of the general principle of self-development, the
+algorithm of the calculation of the number e (similar in form to the process of
+the "winding" of content described by the formulation of the principle of selfdevelopment) allows separate forms under the specific conditions of the
+activity of their limited contentful primary basis in the course of finite time to
+accumulate the maximally possible content by virtue of the circumstance that
+every small particle, every smallest element of these separate forms
+participates in a direct and full-valued way in the process of
+contentful accumulation.
+Thus, the number e, or more precisely the algorithm of its obtaining
+(computation, calculation), represents a description of the most optimal way
+(procedure) of the assimilation and accumulation by some concrete separate
+(isolated) form of the maximal volume of the content arriving from outside.
+If in the cross-section of what has been said one imagines that the
+developing reality (i.e., the entire world surrounding us) as the universal
+form of a single complex process (not having limitations neither of the
+formal, nor of the contentful character, i.e., not limited neither in space, nor
+in time) were composed ("woven") of such maximally effective (optimal)
+small "e-forms," then this single universal big complex form would be
+
+characterized by the highest contentfulness. However, the "harsh" reality
+introduces its corrections in the form of the interference and interpenetration
+of forms into the "fates" of one another. The "atypicalness" of such "e-forms"
+is conditioned by the circumstance that the given form is built on the basis of
+an initial form, contentfully limited and quite isolated from the interaction
+with other forms; a similar algorithm of development is not viable in
+application to the incomparably more widespread open forms-processes,
+which, by virtue of the forced interaction with other forms, develop by more
+general and less optimal patterns. Meanwhile, the "e-form" — this is a vivid
+example of the most optimal and effective development of a form within the
+framework of content-form limitations (i.e., limitations, in this case, of the
+space-time character).
+Because of the described limitations, a similar specific algorithm (after the
+type of the calculation of the number e) is not realizable in full measure with
+respect to the open forms-systems, having universal distribution and
+developing by the general patterns of the generalized formulation of the
+universal principle of self-development. The capitalization of a limited bank
+deposit or starting capital — this is almost the only specimens of really
+existing more or less closed isolated systems, to the description of the
+development of which the algorithm of the computation of the number e is
+ideally applicable: probably, for this very reason all literary sources, as if on
+command, refer exclusively to the example of the calculation (sanctified by
+the name of Bernoulli) of the compound usurious interest, — as to the
+example of a really functioning isolated system, guaranteeing the maximally
+attainable contentful accumulations under the conditions of known
+limitations.
+However, this by no means signifies that the advantages of such special
+forms are in any noticeable degree not realized in practice; the fact that the
+specific "e-forms" by urgent necessity are widely used by man in the form of
+dimensionless values in the description of a huge number of all sorts of real
+processes signifies that the real forms are oriented toward development after
+the image and likeness of the most contentful "e-forms," but by virtue of the
+merciless external influence, interference, and interpenetration on the part of
+the same forms the trajectory of their development can be substantially
+distorted and significantly differ from the most optimal one. In other words,
+the designation of the number e (preserving in the "folded" form the
+algorithm of the obtaining of this number), being present in various
+combinations with other parameters, variables, and arguments in formulaic
+expressions describing all sorts of real processes, indicates thereby although
+far from the highest, but still some optimality (heightened contentfulness) of
+the forms of such processes. Besides, the need for "e-forms" in the
+description of complex forms-processes is conditioned also by the
+circumstance that by these small forms there are "patched" the ruptures or
+steps on the boundaries of the division between the sides-constituents of
+reality, objectively taking place under the conditions of the development of
+big forms and processes; compromise small forms in similar cases are simply
+
+necessary for the adequate and correct description of such really developing
+big processes and forms.
+Every form-relation-process has as the direction of its development the
+optimization of itself (which, strictly speaking, constitutes also the essence of
+the formulation of the principle of self-development). By this same
+circumstance there is conditioned also the presence-presence of optimizing
+values ("e-forms") in the formulaic expressions-descriptions of diverse real
+complex forms-relations-processes. As it follows from our investigation, the
+most effectively the task of the above-mentioned optimization is solved
+nevertheless by the "e-form," which, not having by virtue of the limitations
+accompanying it any noticeable distribution in the "pure" form, enters,
+however, as a component part and is extremely in demand in the description
+of optimally developing real general forms and processes.
+Along with this, the limitedness by the number-limit e — not the only
+remarkable feature of the scenario of the development of forms in the
+channel of the algorithm investigated by us. The second remarkable
+peculiarity of the given scenario — the principled unattainability of the limit
+of the highest (maximal) contentfulness and the inexpressibility of this limit
+in an exhaustively exact digital form. The process proceeding by such an
+algorithm has neither a platform, nor a point of "saturation." And again we
+encounter the relation of two components, whose transition from one to the
+other within the framework of the relation is impossible by a smooth
+measured course. In the role of the interacting and opposing components, as
+has already been noted, in this case there act the sides-constituents
+"change" and "basis." The relation composed of these components of reality
+(analogously to other, more concrete relations of the given type:
+{motion/rest}, {time/space}, {energy/mass}, {temperature/pressure},
+etc.) is doomed to the presence (between the sides-components of this
+relation) of a barrier in the image of an irrational number, answering to a
+certain objective, although not expressible exhaustively, limit correlation of
+these components. And, finally, the third remarkable feature of the same
+scenario consists in the possibility of its infinite development and
+approximation to the expression of the highest contentfulness of the
+mentioned relation arbitrarily closely.
+Neither practically, nor theoretically is it possible to establish exhaustively
+exactly the correlation, and consequently, also the boundary of the division
+between the accreting contentful volume ("change") and the initial contentful
+volume ("basis"); in an analogous way it is impossible to determine also the
+exact boundary of the division between the components in the "kindred"
+relations
+from
+the
+same
+"clip":
+{motion/rest},
+{time/space},
+{energy/mass}... With whatever frequency and however long one may
+attempt to realize similar steps of approximations in the course of the
+realization of the algorithm analyzed by us, there will always remain some
+contentful part, not expressed, not calculated, and not subject to calculation
+by any rational form. And this barrier between the expressed content and the
+
+content incapable of being expressed in all its fullness by any form
+whatsoever — is insurmountable in principle!
+In this very thing consists the sense of the irrational number e. The infinite
+non-periodic fraction of this number personifies that same infinite "run-up"
+before the "jump" from one domain of reality (from the rational reality of the
+form) — into its other domain (to the irrational reality of the content), i.e.,
+from one (rational) component of the relation — to the other (irrational)
+component of this same relation.
+Thus, the number e is such a special quantitative correlation between the
+components in the relation-form {change/basis}, which answers to the limitpossible contentful filling (or the highest contentfulness) of this form-relation.
+At that, the irrationality of the number e testifies to the principled
+impossibility of the establishment in an exhaustive form of the final
+numerical correlation between the components of the relation-form
+{change/basis}, corresponding to its maximally contentful filling, and
+thereby to the impossibility of the acquisition of the highest contentfulness
+by this form-relation.
+The impossibility of the exhaustive expression of the highest contentfulness
+by the indicated form-relation is ascertained in the course of the modeling of
+the process of the acquisition (attainment) of this highest contentfulness by
+the specific procedure of the accrual of the compound bank interest with the
+unlimited shortening of the intervals of time between the moments of its
+accrual.
+As the experience of observations shows, in the descriptions of optimally
+proceeding real complex processes (with the maximal for definite conditions
+contentful increment) there are always present "e-forms," indicating thereby
+the belonging of the forms of these general complex processes to the number
+of optimal forms. On this score in the scientific literature there are presented
+numerous examples of the descriptions of the forms of the most contentful
+development of all sorts of processes in the most diverse domains of reality
+[9, 10, 11, 12, 17, 20, 29, 30, 31, 33, 36, 38, 41, 43, 46, 49, 55].
+§ 4. Having determined ourselves with the nature, meaning, and
+necessity of the introduction by man of the world constants into
+practical circulation, let us make yet several more clarifications and
+explanations
+As it has been possible to establish in the course of the investigation, all
+three constants examined by us — π, φ, and e — are limits, toward which
+functions-relations of a certain kind strive with the unlimited increase of their
+arguments. The historical excursus allows revealing the circle of particular
+practical tasks, in the course of the solution of which the first mentions of the
+above-named values appeared. The solutions of the indicated tasks are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connected with the finding of the algorithms of the computation of the
+following limits:
+in the case of the constant π — of the limit of the relation of the
+increasing perimeters of the polygons inscribed in the circumference (or
+circumscribed around it) to the diameter of this circumference [42, p. 43];
+in the case of the constant φ — of the limit of the relation of the
+increasing total whole to its parts on the basis of the modeling of the
+computational procedure by means of the ascending sequence of Fibonacci
+numbers [39];
+in the case of the constant e — of the limit of the relation of the content
+accreting in a definite way (up to "saturation") onto the content of the initial
+form (i.e., of the "numerator") to the content of the initial form (i.e., to the
+"denominator") on the basis of the modeling of the procedure of the
+computation of the compound bank (or usurious) interest [31].
+The further analysis gives the possibility to discern the relations of the
+general sides-components of reality hiding behind the relations of the
+particular sides of the practical tasks:
+in the case of the constant π such sides of reality are the components of
+the relation {curvature/rectilinearity}, as well as the components of a
+series
+of
+other
+"kindred"
+relations:
+{continuity/discreteness},
+{boundlessness/limitedness}, etc.;
+in the case of the constant φ — the components of the relation
+{whole/part}, as well as the components of a series of other similar
+relations: {general/singular}, {function/structure}, and the like;
+in the case of the constant e — the components of the relation
+{change/basis}, as well as the components of a series of other similar
+relations: {motion/rest}, {energy/mass}, {time/space}, etc.
+A scrupulous study helps to understand that behind the above-indicated
+constants there hide ways or devices of the expression and representation of
+the objective, but not quite comprehensible for man (irrational) sides of
+reality through the no less objective and considerably more comprehensible
+for man (rational) sides of it. In this sense the constants examined by us
+prove to be for human consciousness peculiar "transitions" or "bridges" from
+the domains of the rational — into the domains of the irrational:
+in the case of the constant π — this is the transition from "rectilinearity"
+to "curvature";
+in the case of the constant φ — this is the transition from the "part" to
+the "whole";
+in the case of the constant e — this is the transition from the "basis" to
+the "change."
+The above-mentioned limits are precisely the personification of the barriers,
+which must be overcome in order to "get over" from one domain of the
+relation into its other domain, from one component of reality to its other
+component. The infinite non-periodic string of digits of the fractional parts of
+the irrational numbers π, e, φ (and they are known today already with
+
+billions of significant digits after the decimal point [2]) looks like an unending
+"run-up" before the "jump" from one domain of reality into another and
+simultaneously indicates the impossibility and unrealizability of the smooth
+overcoming of this barrier — the latter is overcome only by a leap in
+thinking, i.e., at the level of the notions and representations about the
+interacting contradictory sides-components of reality in their relations.
+Being expressed by irrational numbers, the given constants symbolize not
+simply transitions from one component of reality to another in their actual
+relations, but transitions infinite, uncompleted, unfinished, unclosed...
+Precisely this circumstance allows making one of the most important
+conclusions: if π, φ, e and can be called numbers in reliance on the
+established terminology with respect to the definition of an irrational number,
+then "constants" one cannot call them in any way!
+The symbols π, φ, e designate "living," uncompleted transitional processes,
+by which, strictly speaking, is caused the use in formulaic expressions and
+descriptions of any and all real forms and processes precisely of symbols,
+and not of concrete numbers.
+These are special forms of the expression of specific transitional contentful
+processes, which it would be proper to name precisely so: "π-transition," "φtransition," "e-transition" or "π-form," "φ-form," "e-form," — proceeding
+from the corresponding understanding and handling of them as of the
+designations of actual transitional forms and processes.
+The mathematical form of the expression of such limit transitions is the
+function. In the great multitude of descriptions of other all-possible formsprocesses (i.e., in the diverse formulaic expressions) these functions are
+present not as constants, but as forms of processes, in principle not having
+the possibility of being expressed by constant finite values; in the final
+analysis π, φ, and e — these are infinite and unrealizable to the end
+transitions from the rational to the irrational, clothed in mathematical form.
+As soon as and when these transitions are reduced to numbers with a limited
+quantity of significant digits after the decimal point, only then do they cease
+to be both processes, and transitions, and functions inside the descriptions of
+more complex and composite processes; only then do these forms turn into
+constants, the presence of which instead of the corresponding symbols limits
+the contentful potential (fullness and depth) of the mentioned descriptions.
+Thus, under the designations π, φ, and e there are implied "folded"
+algorithms (modeling the actual transitional processes) of the computation of
+the limit numerical values of the correlations of the components in the
+relations
+{curvature/rectilinearity},
+{whole/part},
+{change/basis}
+respectively.
+Besides, in the course of the examination it was ascertained that all the
+irrational numbers π, φ, e examined above designate limits or limit
+correlations of the components in their relations, answering to the highest
+contentfulness of the relations of these components. If one imagines that the
+
+mentioned relations {curvature/rectilinearity}, {whole/part}, {change/basis}
+can be characterized by all-possible values of the correlations of their
+components in the ranges (determining the measure of the contentfulness of
+these correlations) from the conditional "zero" (i.e., of small contentfulness)
+up to some highest contentfulness, then the limit numerical values of the
+"round π," the "golden φ," the "saturated e" will correspond precisely to the
+maximal contentfulness of the above-enumerated relations (which, as has
+been noted more than once, in itself is likewise in principle unattainable and
+representable only in the form of an unattainable limit).
+Observations and practical experience show that by no means all formsrelations (objects, processes, phenomena) belong to the number of the
+"round," "golden," or "saturated." The overwhelming majority of the real
+"ordinary" forms-processes-relations occupies the most diverse steps of
+contentfulness within the limits of the ranges indicated above; true, all these
+"ordinary" forms-relations-processes likewise have as the directionality of
+their development the attainment of all the same heightened (and in the limit
+expression — the highest) contentfulness. But the main thing in this
+connection is nevertheless that among the boundless diversity of formsrelations man has managed to single out such which are characterized by
+heightened contentfulness, which is precisely what distinguishes these formsrelations from all the rest; at that, to the singled-out forms-relations it has
+been possible to put into correspondence the limit correlations of the
+components of these relations established by man in the form of more or less
+concrete numbers, which subsequently became the indicators of the
+heightened contentfulness of the given forms-relations. The singling-out and
+advancement of such forms from all the rest was and is accompanied by a
+burst of human emotions (admiration, tenderness, and delight), which in
+reality prove to be a reaction by no means to the internal heightened
+contentfulness of these forms in comparison with others, but to their external
+signs, characteristics, and properties. And the matter here, perhaps, is not
+even in the values and magnitudes of the numbers π, φ, and e themselves,
+but in the fact that such special numbers exist and they correspond to special
+(standing out from the rest) relations-forms of the development of reality.
+As has already been noted, the symbols π, φ, e designate the "boundary"
+correlations of the components in the most contentful specific formsrelations-processes. But these are a kind of particular cases among the
+multitude of other more general forms, the development of which is
+described by the generalized algorithm (formulation) of the principle of selfdevelopment. Therefore the presence of the symbols π, φ, e in the
+description of other more general complex processes and forms indicates the
+optimality and heightened effectiveness of these other complex forms and
+processes in comparison with the configurations of all the other real
+processes and forms. Besides, in the presence of objectively taking place
+ruptures or steps between the sides of reality at the boundaries of their
+division, in a series of cases the adequate description of really developing
+
+forms and processes without the attraction of the "π-," "φ-," and "e-forms"
+is simply impossible.
+The following assertion will be the answer to the question posed at the
+beginning of the article: all three algorithms for the calculation of the limit
+correlations of π, φ, e — these are particular cases of the generalized
+algorithm (formulation) of the principle of self-development, which lies
+precisely in the basis of the fundamental regularity of development,
+conditioning the necessity of the seeking-out and practical application of such
+"constants." In all three cases the speech goes about conditionally "ideal,"
+conditionally "exceptional," limit-contentful forms-relations, in some way
+isolated (especially in the case of the "e-form") from the interaction with all
+the other real forms. In the "harsh" reality of such exceptional (ideal) forms
+there are very few, they are — special; the forms of the open real world,
+however, are the product and consequence of the confrontation and
+interaction of the whole host of the forms of the open world. And with
+respect to such a kind of open real forms and processes the speech is
+conducted already not about their absolute perfection, exceptionality, and
+ideality (as in the case of the particular specific forms-relations), but about
+their movement-development in the direction of a certain optimality (i.e.,
+of the maximally attainable contentfulness), but under the conditions of the
+real interference and intervention of other forms. And in the same way the
+sign of the orientation toward optimality and the highest contentfulness, but
+already in the case of the real complex open processes-forms, is the
+presence of the small "π-," "φ-," and "e-forms" in the descriptions of these
+big real open processes-forms.
+Thus, π, φ, and e — these are the algorithms of the particular specific formsrelations, characterized by the expressed directionality toward the attainment
+of the absolute perfection and exceptionality of their special forms, whereas
+the algorithm (formulation) of the principle of self-development determines
+the universal directionality of the movement-development of any all-possible
+forms-relations of reality, including also the specific particular forms
+investigated by us.
+Any and every SOMETHING is a relation, accessible to expression with
+respect to everything else and in mathematical or digital form. The number
+in the given case acts as the measure of any and every relation; the number
+is the quantitative characteristic of the relation, indicating the correlation of
+the components in their integral relation, the degree of the participation of
+the sides-components of the relation in one another, the degree of the
+expressiveness of one constituent by means of its other, the position of the
+boundary of division between the sides-components in their relation. The
+known examples of the found remarkable limits of π, φ, and e speak of the
+real and quite realizable possibility of the numerical expression (cognition) of
+one through the other: of the whole through the part (or through the totality
+of parts), of the boundless continuity through the limited discreteness, of the
+developing content (change) through the existing form (basis), of the
+
+uncertainty through the certainty, of the unknown through the known (but
+every time with some differences from the already known), etc., etc.
+Precisely in such a way (by way of the expression of the unknown or of the
+contentful not "graspable" by consciousness in full measure through the
+known or cognized form-like) is realized the process of cognition (as,
+incidentally, also development itself), and another way and other path simply
+does not exist. The numbers π, φ, and e — these are examples of the
+resultative attempts of man to express one (insufficiently cognized) through
+the other (sufficiently comprehended).
+However, besides the load — to be "bridges" between the sides-components
+of reality — the so-called "constants" examined by us fulfill yet one more
+important function: all three "constants" — these are boundary pillars
+(milestones), standing on different frontiers and outlining the boundaries of
+the objective physical level of reality; the first two (π and φ) are located on
+the boundaries of the division of the domains connected with the external,
+for the most part static geometric (spatial) forms, the last one (e) — on the
+boundary of the division of the components of the more abstract, more deeplying and dynamic (temporal) forms-relations.
+Further, taking into account that π, φ, and e are located on the boundaries
+of the components of completely differently planned and differently leveled
+(in any case, obviously not intersecting) forms-relations, which are the
+relations-forms
+{curvature/rectilinearity},
+{whole/part},
+and
+{change/basis}, one must seek the quantitative connection between these
+forms-relations (and, correspondingly, between the numbers answering to
+them) with the account of this differently-leveledness, i.e., more
+meaningfully. It is not excluded that with time such an internal connection
+will be established or there will be discovered a system of numeration (and
+maybe, also a system of reference), in which the world "constants," like the
+chemical elements of the Mendeleev table, will in an ordered way occupy
+definite little cells of the table, thanks to which it will prove possible to
+forecast the appearance and introduction (dictated by practical necessity)
+into circulation of new world "constants."
+As for the other world "constants," and in particular the so-called physical
+"constants," then, probably, in a similar way one can investigate and
+establish the genuine essence both of the speed of light [4, pp. 98–107; 5, p.
+37], and of the gravitational constant, and of the Planck constant, etc. At
+that, it is necessary to remember that every world "constant," still
+insufficiently comprehended and for the time being passing for an
+inexplicable and unsolved number, — this is always a barrier or at least a
+"boundary pillar" on the frontier between the incompatible and differing from
+one another components-constituents of a certain relation, i.e., between the
+objective sides of reality. Moreover, it is no less important also to understand
+that the mentioned relations of the noncoinciding and opposing sides
+of reality are not located somewhere there, in the "far distance" from
+one another, and are not separated between themselves by some
+
+"spaces" and "times," but are interwoven into one another and are
+found in a single bundle in every smallest element of reality,
+occupying its different levels-floors.
+The "constants" have an important significance, since they stand on the
+frontiers between the thoroughly cognized and the insufficiently studied or
+not yielding to understanding also as easily and freely as the already
+cognized; precisely the world "constants" outline the boundaries of the
+rational (from the position of the stereotyped human thinking) world, i.e., of
+the habitual and very "definiteness-like" objective (geometrically-physical)
+level of reality. If π is located on the boundary of the transition from the
+linear (flat) world to the spherical (filled with curvature), then the number e
+and a whole series of other world "constants" stands on the threshold of the
+transformation of again the habitual for us three-dimensional world
+(absolutizing its static spatial-form side-constituent) into the dynamically
+changing, so-called space-time continuum. In view of the importance of the
+relations fixed by the designations of the world "constants," with each of
+these relations and the correlation of their components one must deal
+unhurriedly and carefully; offhand such questions cannot be correctly
+resolved. In any case one must begin with the study of the history of the
+origin of this or that problem form-relation — here at once there may be
+discovered the main hint for the disclosure of the secret of its special
+properties and, correspondingly, popularity. The following of the principle of
+the observance of the unity of the historical and the logical in the conduct of
+such examinations — is especially topical.
+The understanding of the essence of the world "constants" pushes apart the
+horizons of our representations about the developing reality, since the
+"constants" are the indispensable participants of the correct modeling of the
+behavior of the most multi-leveled reality, being found in the composition of
+the mathematical (formulaic) expressions describing this behavior. In this
+connection it is most expedient, in our opinion, to adhere to that position
+that with respect to each concrete case the best solution, interpretation, and
+explanation will be found by the "narrow" professional, who has mastered the
+concept of development presented here and mentioned yet again more than
+once. Say, the specialist in the domain of the history of the formation of
+geometry (with the knowledge both of mathematics and of its history, well
+acquainted moreover with the indicated concept of development) will find it
+easier than anyone else to come out onto the initial conditions and
+circumstances which led to the empirical or intuitive discovery of the
+remarkable correlation of π; or the physicist (well acquainted with the
+historical background and again with the given concept) will find it simpler to
+deal with the number e; and the biologist (zoologist, botanist), who has
+mastered the concept of development, — with the regularities of the golden
+relation in living forms, etc., etc. The world "constants" are waiting for their
+researchers.
+
+In conclusion let us note that the present article serves as an example of the
+practical application of the concept of development as an instrument for the
+investigation of the surrounding world.
+Conclusion
+Let us sum up what has been set forth.
+1. The world "constants" — these are the external forms of the manifestation
+of the internal connections and relations of the sides-components of reality;
+these are peculiar "bridges" between the mentioned sides-components in
+their real relations; these are the limit correlations of the definite sidesconstituents of reality, expressed by numerical values.
+2. The concrete examples of the remarkable limits of π, φ, e testify to the
+principled realizability and resultatively realized by man aspirations and
+attempts of the quantitative expression (let it be even approximate) of the
+insufficiently cognized (irrational) sides-constituents of reality through the
+comprehensible and habitual (rational) sides-constituents of it.
+3. The irrationality (i.e., the infinity and non-periodicity of the fractional
+parts) of the numbers corresponding to the mentioned limits of the relations
+of π, φ, and e indicates, in the first place, the principled unattainability of
+the expression in an exhaustive form of the irrational side-constituent of
+reality through the rational side-constituent of it and, in the second place,
+the possibility of an arbitrarily close approximation to such an exhaustive
+expression.
+4. The same irrationality of the numbers π, φ, and e indicates also the fact
+that these numbers — by no means "constants," as is customary to consider,
+but certain forms of infinite processes of the transition from one sidecomponent of reality to its other side-component. Perceiving this at the level
+of intuition, man for that very reason includes them in the formulaic
+expressions and descriptions of real forms and processes not in the form of
+concrete numerical values, but in the form of symbols.
+5. The world "constants" — these are a kind of "boundary markers" along the
+perimeter of the boundary of the most studied by man, comprehensible for
+him and habitual objective (physical) level of reality, i.e., precisely the world
+"constants" outline the boundaries of the so-called rational (from the position
+of the everyday human consciousness) world.
+6. The limits of the relations of π, φ, and e — these are also "milestones" on
+the boundaries of the division between the components of quite differently
+leveled relations, such as: {curvature/rectilinearity}, {whole/part},
+{change/basis}; for that very reason to seek the quantitative correlations
+between their numerical values without the meaningful penetration into
+these relations and their components preceding the given search, in our
+
+opinion, is little effective. It is quite admissible that between the aboveenumerated forms-relations there exists a deep-lying contentful (nonformal)
+connection, which may be discovered with time; but in order to speak about
+this concretely, further in-depth investigations of these very relations and
+their components are needed.
+7. The numerical values of π, φ, and e designate the correlations of the
+components in the above-enumerated forms-relations, answering to the
+heightened (and in the limit — the highest) contentfulness of these formsrelations on their levels, which makes these forms-relations the "happy"
+possessors of their remarkable properties and characteristics, fixed by the
+human consciousness as something special and exceptional.
+8. Since, without resorting to the help of the "constants" investigated by us,
+many real processes it is simply impossible to describe correctly and
+adequately, man attracts these specific forms-relations (π, φ, and e) for
+participation in the descriptions of many other real complex forms and
+processes. Being present as the designations of the processes of transition in
+the formulaic expressions and descriptions of other, more complex forms and
+processes, these specific forms-relations of heightened contentfulness
+indicate thereby the optimality of those other forms and processes in
+comparison with the multitude of other "ordinary" forms and processes, not
+distinguished by a similar optimality. Besides, under the designations of the
+"constants" in such descriptions there hide compromise connections
+(bridges), "smoothing" the objectively existing ruptures or steps between the
+components of reality.
+References
+1. Butusov K.P. The Golden Section in the Solar System [Text] // Problems of
+the Investigation of the Universe. — Issue 7. — M.-L.: VAGO, 1978. — 475 p.
+2. Vasilenko S.L. Basic Correlations between the Fundamental Constants
+[Electronic
+resource]
+//
+URL:
+http://www.trinitas.ru/rus/doc/0016/001c/1934-vs.pdf
+3. Vasyutinsky N.A. The Golden Proportion [Text]. — M.: Molodaya Gvardiya,
+1990. — 238 p.
+4. Vladlen V.K. Development. A New Experience of Natural Philosophy. Essay
+[Text]. — Kiev: Logos, 2005. — 204 p.
+5. Vladlen V.K. To Cognize the Obviousness. A Non-trivial Outlook on
+Evolution [Text]. — SPb.: Super Publishing House, 2016. — 68 p.
+6. Volynsky M.S. The Extraordinary Life of an Ordinary Drop [Text]. — M.:
+Znanie, 1986. — 144 p.
+7. Vorobyov N.N. Fibonacci Numbers [Text] / 4th ed., suppl. — M.: Nauka,
+1978. — 144 p.
+8. Vygodsky M.Ya. Handbook of Elementary Mathematics [Text]. — M.:
+Nauka, 1968. — 416 p.
+9. Gilderman Yu.I. Armed with the Integral... [Text]. — Novosibirsk: Nauka,
+1980. — 192 p.
+
+10. Gorobets B. The World Constants π and e in Nature [Electronic resource]
+// URL: http://7iskusstv.com/2009/Nomer1/Gorobec1.php
+11. Gorobets B. The World Constants "pi" and "e" in the Basic Laws of
+Physics and Physiology [Text] // Nauka i Zhizn. — 2004. — No. 2.
+12. Dobrolyubov A.I. Running Deformation Waves [Text]. — Mn.: Nauka i
+Tekhnika, 1987. — 144 p.
+13. Zhukov A.V. The Omnipresent Number π [Text]. — M.: Editorial URSS,
+2004. — 216 p.
+14. Siegel F.Yu. Astronomical Mosaic [Text]. — M.: Nauka; Chief ed. of
+phys.-math. lit., 1987. — 176 p.
+15. Kepler J. On the Six-Cornered Snowflake [Text] / Transl. from Latin by
+Yu.A. Danilov. — M.: Nauka, 1982. — 194 p.
+16. Kikoin I.K. Stories about Physics and Physicists [Text]. — M.: Nauka;
+Chief ed. of phys.-math. lit., 1986. — 160 p.
+17. Klein F. Elementary Mathematics from an Advanced Standpoint [Text]. In
+2 vols. — Vol. 1. Arithmetic. Algebra. Analysis / Transl. from German; ed. by
+V.G. Boltyansky. — 4th ed. — M.: Nauka; Chief ed. of phys.-math. lit., 1987.
+— 432 p.
+18. Klein F. Elementary Mathematics from an Advanced Standpoint [Text]. In
+2 vols. — Vol. 2. Geometry / Transl. from German; ed. by V.G. Boltyansky.
+— 2nd ed. — M.: Nauka; Chief ed. of phys.-math. lit., 1987. — 416 p.
+19. Kovalev F.V. The Golden Section in Painting [Text]. — K.: Vishcha
+Shkola, 1989. — 143 p.
+20. Kozlovsky B. The 10 Numbers on Which the World Holds [Electronic
+resource] // URL: expert.ru/russian_reporter/2008/9/cisla/
+21. Kravchenko V.V. The Concept of Development: A View from Within [Text]
+// Journal of Philosophical Research. — 2018. — Vol. 4, No. 2. — Pp. 47–73.
+22. Kympan F. The History of the Number π [Text]. — M.: Nauka; Chief ed.
+of phys.-math. lit., 1971. — 216 p.
+23. Lavrus V.S. The Golden Section [Electronic resource] // URL: http://nt.ru/tp/iz/zs.htm
+24. Landau L.D., Kitaigorodsky A.I. Physics for Everyone: Physical Bodies
+[Text] — 6th ed. — M.: Nauka; Chief ed. of phys.-math. lit., 1984. — 208 p.
+25. Lipov A.N. The Golden Section as the Basic Morphological Law [Text] //
+Philosophy and Culture. — 2010. — No. 9. — Pp. 96–108.
+26. Lopatnikov L.I. Concise Economic-Mathematical Dictionary [Text]. — M.:
+1979, Nauka. — 358 p.
+27. Nambu Y. Quarks [Text] / Transl. from Japanese. — M.: Mir, 1984. —
+225 p.
+28. Nikiforovsky V.A. The Path to the Integral [Text]. — M.: Nauka, 1985. —
+192 p.
+29. Nikolsky S.M. Elements of Mathematical Analysis [Text]. — M.: Nauka;
+Chief ed. of phys.-math. lit., 1981. — 160 p.
+30. Osipov K.A. New Ideas and Facts in Metal Science [Text]. — M.: Nauka,
+1986. — 72 p.
+31. Perelman Ya.I. Entertaining Algebra [Text]. — M.: Nauka, 1967. — 200
+p.
+
+32. Perelman Ya.I. Entertaining Physics [Text]. In 2 books. — Book 2. — 21st
+ed., corr. and suppl. — M.: Nauka; Chief ed. of phys.-math. lit., 1983. — 272
+p.
+33. Rabotnov Yu.N. Introduction to the Mechanics of Fracture [Text]. — M.:
+Nauka; Chief ed. of phys.-math. lit., 1987. — 80 p.
+34. Savin A. The Number π [Text] // Kaleidoscope "Kvant". — 1996. — No. 6.
+35. Savin A. The Number of Phidias — the Golden Section [Text] //
+Kaleidoscope "Kvant". — 1997. — No. 6.
+36. Samsonov V.A. Essays on Mechanics. Some Problems, Phenomena, and
+Paradoxes [Text] — M.: Nauka; Chief ed. of phys.-math. lit., 1980. — 64 p.
+37. Soviet Encyclopedic Dictionary [Text] / Chief ed.: A.M. Prokhorov. — 4th
+ed. — M.: Sov. Encyclopedia, 1989. — 1632 p.
+38. Spiridonov O.P. Universal Physical Constants [Text]. — M.:
+Prosveshchenie, 1984. — 160 p.
+39. Stakhov A.P. The Harmony of the Universe and the Golden Section: The
+Most Ancient Scientific Paradigm and Its Role in Modern Science,
+Mathematics,
+and
+Education
+[Electronic
+resource]
+//
+URL:
+http://www.obretenie.info/txt/stahov/harmoni1.htm
+40. Stakhov A.P. Codes of the Golden Proportion [Text]. — M.: Radio i Svyaz,
+1984. — 152 p.
+41. Tarasov L.V., Tarasova A.N. Conversations about the Refraction of Light
+[Text] / Ed. by V.A. Fabrikant. — M.: Nauka; Chief ed. of phys.-math. lit.,
+1982. — 176 p.
+42. Tikhonov A.N., Kostomarov D.P. Stories about Applied Mathematics
+[Text]. — M.: Nauka; Chief ed. of phys.-math. lit., 1979. — 208 p.
+43. Feldblyum B. On the Most Important Thing in Mathematics [Text]. — L.:
+Detlit, 1969. — 126 p.
+44. Philosophical Dictionary [Text] / Ed. by M.M. Rosenthal and P.F. Yudin. —
+M.: Politizdat, 1963. — 544 p.
+45. Philosophical Encyclopedic Dictionary [Text] / Chief eds.: L.F. Ilyichev,
+P.N. Fedoseev, S.M. Kovalev, V.G. Panov. — M.: Sov. Encyclopedia, 1983. —
+840 p.
+46. Khurgin Ya.I. Yes, No, or Maybe... [Text]. — 2nd ed. — M.: Nauka; Chief
+ed. of phys.-math. lit., 1983. — 208 p.
+47. Shevelev I.Sh. et al. The Golden Section: Three Views on the Nature of
+Harmony [Text]. — M.: Stroiizdat, 1990. — 343 p.
+48. Shilov G.E. The Simple Scale. The Structure of the Musical Scale [Text].
+— 2nd ed. — M.: Nauka, 1980. — 24 p.
+49. Schrödinger E. The Space-Time Structure of the Universe [Text] / Transl.
+from English; ed. by R.A. Asanov. — M.: Nauka; Chief ed. of phys.-math. lit.,
+1986. — 224 p.
+50. Steinhaus H. Mathematical Kaleidoscope [Text] / Transl. from Polish. —
+M.: Nauka; Chief ed. of phys.-math. lit., 1981. — 160 p.
+51. Shumikhin S. The Number Pi. A History 4000 Years Long [Text] / S.
+Shumikhin, A. Shumikhina. — M.: Eksmo, 2011. — 192 p.
+52. O'Connor J.J., Robertson E.F. A History of Pi [Electronic resource] // URL:
+http://www.history.mcs.standrews.ac.uk/HistTopics/Pi_through_the_ages.html
+
+53. O'Connor J.J., Robertson E.F. History Topic: The Number e [Electronic
+resource] // URL: http://www.history.mcs.st-and.ac.uk/PrintHT/e.html
+54. Vladlen V.K. To Cognize the Obviousness. Non-trivial Outlook on
+Evolution. — Houston, TX 77065: Strategic Book Publishing and Rights Co.,
+2013. — 46 p.
